@@ -12,6 +12,11 @@ My first documentation site made with Docusaurus..
 
 I guess if I can implement API documentation portal using it.
 
+|   	|   	|   	|
+|---	|---	|---	|
+|   	|   	|   	|
+|   	|   	|   	|
+
 ## Getting Started
 
 Get started by **creating a new site**.
