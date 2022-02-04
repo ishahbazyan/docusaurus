@@ -15,9 +15,9 @@
 
 О реализации способов интеграции см. следующие материалы:
 
-- ****[**Cardsmobile Loyalty Online API**](https://developers.cardsmobile.ru/loyalty-api/about).
-- ****[**Cardsmobile Loyalty Offline Service**](https://developers.cardsmobile.ru/offline-loyalty/about).
-- ****[**Cardsmobile Gift Cards Offline Service**](https://developers.cardsmobile.ru/cardsmobile-gift-cards-offline-service/about).
+- [**Cardsmobile Loyalty Online API**](https://developers.cardsmobile.ru/loyalty-api/about).
+- [**Cardsmobile Loyalty Offline Service**](https://developers.cardsmobile.ru/offline-loyalty/about).
+- [**Cardsmobile Gift Cards Offline Service**](https://developers.cardsmobile.ru/cardsmobile-gift-cards-offline-service/about).
 
 Для улучшения качества обслуживания виртуальных копий карт лояльности, выпущенных в приложении «Кошелёк», платформа Cardsmobile предоставляет также дополнительные API:
 
