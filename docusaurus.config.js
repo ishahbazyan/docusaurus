@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Koshelek',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+
 
   presets: [
     [
@@ -115,4 +116,21 @@ const config = {
     }),
 };
 
-module.exports = config;
+  module.exports = {
+  i18n: {
+    defaultLocale: 'ru',
+    locales: ['ru', 'en'],
+    localeConfigs: {
+      ru: {
+        label: 'Русский',
+        direction: 'ltr',
+        htmlLang: 'ru-RU',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+    },
+  },
+};
