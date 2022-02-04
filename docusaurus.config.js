@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Koshelek',
   tagline: 'Dinosaurs are cool',
-  url: 'https://example.com',
+  url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -116,9 +116,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  title: 'Koshelek',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://example.com',
-  baseUrl: '/',
-};
+module.exports = config; 
