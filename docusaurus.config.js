@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Koshelek',
+  title: Koshelek,
   tagline: 'Dinosaurs are cool',
-  url: 'https://example.com',
-  baseUrl: '/',
+  url: https://example.com,
+  baseUrl: /,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
