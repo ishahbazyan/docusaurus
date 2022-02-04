@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: Koshelek,
   tagline: 'Dinosaurs are cool',
-  url: https://example.com,
+  url: 'https://example.com',
   baseUrl: /,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
