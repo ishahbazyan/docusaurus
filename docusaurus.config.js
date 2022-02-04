@@ -115,22 +115,3 @@ const config = {
       },
     }),
 };
-
-  module.exports = {
-  i18n: {
-    defaultLocale: 'ru',
-    locales: ['ru', 'en'],
-    localeConfigs: {
-      ru: {
-        label: 'Русский',
-        direction: 'ltr',
-        htmlLang: 'ru-RU',
-      },
-      en: {
-        label: 'English',
-        direction: 'ltr',
-        htmlLang: 'en-US',
-      },
-    },
-  },
-};
