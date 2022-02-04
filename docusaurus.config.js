@@ -115,3 +115,10 @@ const config = {
       },
     }),
 };
+
+module.exports = {
+  title: 'Koshelek',
+  tagline: 'Dinosaurs are cool',
+  url: 'https://example.com',
+  baseUrl: '/',
+};
