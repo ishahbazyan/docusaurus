@@ -9,7 +9,7 @@ const config = {
   title: Koshelek,
   tagline: 'Dinosaurs are cool',
   url: 'https://example.com',
-  baseUrl: /,
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
