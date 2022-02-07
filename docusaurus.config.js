@@ -36,10 +36,27 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        'docusaurus-preset-openapi',
+      {
+        api: {
+          id: 'test', // omitted => default instance
+          path: 'test/openapi.json',
+          routeBasePath: 'test',
+          // ... other options
+        },
       }),
     ],
   ],
-
+plugins: [
+    [
+      'docusaurus-plugin-openapi',
+      {
+        id: 'test',
+        path: 'test/openapi.json',
+        routeBasePath: 'test',
+        // ... other options
+      },
+    ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
